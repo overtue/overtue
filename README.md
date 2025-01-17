@@ -1,3 +1,4 @@
+```
 - 👋 Hi, I’m @overtue
 - 👀 I’m interested in User based Applications (Front-End)
 - 🌱 I’m currently learning discord.py
@@ -5,6 +6,7 @@
 - 📫 How to reach me: anwesh663@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love airplanes!
+```
 
 <!---
 overtue/overtue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
