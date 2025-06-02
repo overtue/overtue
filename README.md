@@ -1,9 +1,9 @@
 ```
 - 👋 Hi, I’m @overtue
-- 👀 I’m interested in User based Applications (Front-End)
+- 👀 I’m interested in User based Applications (Back-End)
 - 🌱 I’m currently learning discord.py
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me: anwesh663@gmail.com
+- 📫 How to reach me: whatifyoucloseyour5@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love airplanes!
 ```
